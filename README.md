@@ -33,3 +33,7 @@ Local-only implementation; no Wix integration, backend, forms, remote scripts, r
 ## Later hosting
 
 `dist/` contains standalone HTML/CSS/JS/assets for later Cloudflare static hosting. No Cloudflare resource, account connection, or deployment configuration has been created. Confirm final domain, ticket details, revised About copy and launch approval before deployment; add domain-specific canonical URLs and sitemap then.
+
+## Live hosting
+Deployed with user approval on October 13, 2026: https://latino-fashion-week-arizona.mr-ellis1009.workers.dev
+Run npm run deploy for future local-to-Cloudflare updates. See docs/CLOUDFLARE.md. The earlier local-only notes describe the initial build phase.

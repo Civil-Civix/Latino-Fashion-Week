@@ -24,3 +24,6 @@ User visual review; revised About text; confirmed event dates and ticket destina
 
 ## Continue
 Use this same repository and chat for local refinements. Start with npm run dev and open http://127.0.0.1:4173. If the preview is already running, use it; do not start another instance. Run npm run build after changes and refresh. No installation is needed for ordinary build/preview. Read README.md and docs/content-notes.md before editing.
+
+## Hosting update — October 13, 2026
+User authorized Cloudflare hosting. Deployed at https://latino-fashion-week-arizona.mr-ellis1009.workers.dev using Workers Static Assets. See docs/CLOUDFLARE.md for deployment details. Earlier local-only deployment statements above describe the prior phase. No GitHub push or automatic Git deployment was performed.
